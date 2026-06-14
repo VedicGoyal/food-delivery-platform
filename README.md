@@ -11,6 +11,12 @@ data engineering across ingestion, transformation, governance, and analytics.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VedicGoyal/food-delivery-platform/screenshots/01_key_performances.png" width="400" alt="Dashboard Screenshot"/>
+</p>
+
+---
+
 ## 🏗️ Architecture
 
 Azure Event Hubs (streaming)          ADLS Gen2 (batch files)
