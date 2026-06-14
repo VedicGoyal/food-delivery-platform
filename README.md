@@ -1,4 +1,4 @@
-# 🍔 Enterprise Food Aggregator Data Platform
+# 🍔 Enterprise Food Delivery Data Platform
 
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)](https://snowflake.com)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
