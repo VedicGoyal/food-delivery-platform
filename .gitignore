@@ -1,0 +1,28 @@
+# Credentials — never upload these
+.env
+*.env
+config.yaml
+secrets.yaml
+sas_token.txt
+connection_string.txt
+
+# Data files — too large, stored in ADLS anyway
+*.csv
+*.parquet
+*.json
+data/
+raw_data/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows/Mac system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
