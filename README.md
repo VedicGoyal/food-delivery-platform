@@ -12,7 +12,7 @@ data engineering across ingestion, transformation, governance, and analytics.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VedicGoyal/food-delivery-platform/screenshots/01_key_performances.png" width="400" alt="Dashboard Screenshot"/>
+  <img src="https://raw.githubusercontent.com/VedicGoyal/food-delivery-platform/main/screenshots/01_key_performances.png" width="800" alt="Dashboard Screenshot"/>
 </p>
 
 ---
@@ -165,3 +165,14 @@ Streamlit Dashboard
 - Dynamic Tables for simplified incremental refresh
 - Row Access Policies for restaurant-level data segmentation
 - Real-time anomaly alerting via Snowflake Alerts + Azure Logic Apps
+
+---
+
+## 🚀 Live Demo
+
+👉 [**Try the app now**](https://app.snowflake.com/streamlit/kjfggef/il94192/#/apps/ghoyryf5cne2kbnqrbtg)  
+No setup needed — fully hosted on Snowflake Streamlit.
+
+👉 [Checkout the walkthrough video here.](https://youtu.be/ufzhG1BZLcQ?si=tzVyx4mTHD3PI-jk)
+
+---
