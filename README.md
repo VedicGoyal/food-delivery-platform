@@ -17,6 +17,10 @@ data engineering across ingestion, transformation, governance, and analytics.
 
 ---
 
+👉 [Checkout the walkthrough video here.](https://youtu.be/a4VE_r-7pL8)
+
+---
+
 ## 🏗️ Architecture
 
 Azure Event Hubs (streaming)          ADLS Gen2 (batch files)
